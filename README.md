@@ -9,6 +9,7 @@ You may want to point a shortcut on your desktop for easy access.
 Muhammad Hanis Irfan / @an12440h
 
 ## Built with
+- Python (The Programming Language)
 - Tkinter (GUI Framework)
 
 ## License
