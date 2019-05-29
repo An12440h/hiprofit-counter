@@ -9,10 +9,8 @@ You may want to point a shortcut on your desktop for easy access.
 Muhammad Hanis Irfan / @an12440h
 
 ## Built with
-- PyQT (GUI Framework)
+- Tkinter (GUI Framework)
 
 ## License
 This project is under CC License
 See license details here: 
-
-
